@@ -1,0 +1,12 @@
+{
+  "name": "takaearn-cpagrip-postback",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CPAGrip S2S postback for TakaEarn — deploy free on Vercel",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.1.0"
+  }
+}
